@@ -314,3 +314,4 @@ export const cards = [
 ];
 
 export const levels = [1, 2, 3];
+export const expectedCardCounts = new Map([[1, 45], [2, 45], [3, 75]]);
