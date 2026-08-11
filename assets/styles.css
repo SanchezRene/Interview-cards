@@ -128,6 +128,13 @@ h3 { margin: 0 0 9px; font-size: 1.04rem; line-height: 1.3; letter-spacing: -0.0
 .answer-ready + .answer-section { padding-top: 23px; }
 .extra-section p { color: #4c5b52; }
 .plain-section p { color: #455f4d; }
+.key-term {
+  padding: 0 0.16em;
+  border-radius: 0.24em;
+  background: #dfe8d9;
+  color: #294333;
+  font-weight: 820;
+}
 
 .code-example { margin: 0; padding: 15px; overflow-x: auto; border-bottom: 1px solid var(--line); background: #28382f; color: #f6f3e9; font: 0.84rem/1.55 ui-monospace, SFMono-Regular, Consolas, monospace; tab-size: 2; white-space: pre; }
 
